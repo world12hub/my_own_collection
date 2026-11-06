@@ -1,0 +1,2 @@
+my_own_module_path: /tmp/ansible_demo.txt
+my_own_module_content: "hello world\n"
